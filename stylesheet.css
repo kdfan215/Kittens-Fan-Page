@@ -1,0 +1,28 @@
+.mycard{
+    border: 1px solid lightgrey;
+    width: 350px;
+    padding: 10px;
+    box-shadow:2px 2px 2px 2px gray;
+}
+.mycard img{
+    width: 350px; 
+}
+
+h3 {
+    margin-top:0;
+}
+.intro{
+    font-style:italic;
+}
+.text{
+    border: 1px solid lightgrey;
+    padding: 10px;
+}
+ul{
+    list-style:none;
+    padding:0;
+}
+.brand-logo img{
+    padding-left: 15px;
+    height:1em
+}
